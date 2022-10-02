@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.hmtl barındırıyor.
+Bu repo [Patika.dev](https://www.patika.dev/tr) GIT konusu altında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.hmtl barındırıyor.
 
 <p align="center" width="100%">
     <img width="50%" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png"> 
@@ -27,6 +27,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
 
 
 
